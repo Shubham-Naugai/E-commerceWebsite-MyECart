@@ -1,0 +1,1 @@
+This project deals with developing an e-commerce website for Online Product Sale. It provides the user with a catalog of different product available for purchase in the store. I use Oracle database to store big data to reduce data complications. A little one pager method also apply here in a template to reduce server load on site.
